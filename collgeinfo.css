@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-image: url("dnp.jpg");
+    background-size: cover;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+
+}
+.university1{
+
+margin-top: 20;
+display:flex;
+justify-content: space-around;
+height: 50px;
+padding-top: 100px;
+}
+.university2{
+
+margin-top: 20;
+display:flex;
+justify-content: space-around;
+height: 50px;
+padding-top: 100px;
+}
+#anch1{
+    background-color: aqua;
+    /* padding-top:5px;*/
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    border: 2px,solid,black;
+    transition-duration: 1s;
+    transition-timing-function: ease-in;
+}
+#anch1:hover{
+    background-color: yellow;
+    color: black;
+
+}
+#anch2{
+    background-color: aqua;
+    /* padding-top:5px;*/
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    border: 2px,solid,red;
+    transition-duration: 1s;
+    transition-timing-function: ease-in;
+}
+#anch2:hover{
+    background-color: yellow;
+    color: black;
+}
+#anch3{
+    background-color: aqua;
+    /* padding-top:5px;*/
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    border: 2px,solid,red;
+    transition-duration: 1s;
+    transition-timing-function: ease-in;
+}
+#anch3:hover{
+    background-color: yellow;
+    color: black;
+}
+#anch4{
+    background-color: aqua;
+    /* padding-top:5px;*/
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    border: 2px,solid,red;
+    transition-duration: 1s;
+    transition-timing-function: ease-in;
+}
+#anch4:hover{
+    background-color: yellow;
+    color: black;
+}
+#anch5{
+    background-color: aqua;
+    /* padding-top:5px;*/
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    border: 2px,solid,red;
+    transition-duration: 1s;
+    transition-timing-function: ease-in;
+}
+#anch5:hover{
+    background-color: yellow;
+    color: black;
+}
+#anch6{
+    background-color: aqua;
+    /* padding-top:5px;*/
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    border: 2px,solid,red;
+    transition-duration: 1s;
+    transition-timing-function: ease-in;
+}
+#anch6:hover{
+    background-color: yellow;
+    color: black;
+}
